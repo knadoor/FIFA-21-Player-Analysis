@@ -2,7 +2,7 @@
 The aim of this project is to perform Data Wrangling, Cleaning and Player Analysis of the FIFA 21 data from Kaggle.
 
 ## Technologies used:
-* Python / Jupyter Notebooks
+* Python / Jupyter Notebook
 * Pandas
 * Seaborn
 * Matplotlib
