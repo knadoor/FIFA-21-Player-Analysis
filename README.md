@@ -11,7 +11,7 @@ The aim of this project is to perform Data Wrangling, Cleaning and Player Analys
 This is a WIP notebook.
 I've performed Exploratory Data Analysis and have completed Data Cleansing using Pandas.
 
-## The remaining steps are:
+## What next to complete?
 * Produce visualizations using libraries such as Seaborn and Matplotlib
 * Produce insights of the Player data
 
