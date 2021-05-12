@@ -9,7 +9,7 @@ We will be exploring the wages of the different players and ascertain the relati
 * Skill variables such as: Attacking, Defending, Goalkeeping etc.
 * Player Potential
 
-We will also do an analysis of the Players with similar skillsets and contrast their salaries.
+We will also do an analysis of the Players with similar abilities and contrast their salaries and skills.
 
 ## Technologies used:
 * Python / Jupyter Notebook
